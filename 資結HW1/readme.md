@@ -8,4 +8,5 @@
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW1/%E9%A1%8C%E7%9B%AE/lake%20problem%20(7).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW1/%E9%A1%8C%E7%9B%AE/lake%20problem%20(8).png)
   結果圖：
+  <br/> 
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW1/HW1_result.png)
