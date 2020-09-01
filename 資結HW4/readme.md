@@ -1,4 +1,4 @@
-題目：
+# 題目：
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/%E9%A1%8C%E7%9B%AE/knight%20(1).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/%E9%A1%8C%E7%9B%AE/knight%20(2).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/%E9%A1%8C%E7%9B%AE/knight%20(3).png)
@@ -13,6 +13,5 @@
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/%E9%A1%8C%E7%9B%AE/knight%20(12).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/%E9%A1%8C%E7%9B%AE/knight%20(13).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/%E9%A1%8C%E7%9B%AE/knight%20(14).png)
-結果圖：
-<br/>
+# 結果圖：
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW4/HW4_result.png)
