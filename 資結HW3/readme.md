@@ -1,4 +1,4 @@
-題目：
+# 題目：
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/%E9%A1%8C%E7%9B%AE/huffman%20(1).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/%E9%A1%8C%E7%9B%AE/huffman%20(2).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/%E9%A1%8C%E7%9B%AE/huffman%20(3).png)
@@ -14,12 +14,8 @@
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/%E9%A1%8C%E7%9B%AE/huffman%20(13).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/%E9%A1%8C%E7%9B%AE/huffman%20(14).png)
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/%E9%A1%8C%E7%9B%AE/huffman%20(15).png)
-結果圖：
-<br/>
-main1：
-<br/>
+# 結果圖：
+## main1：
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/main1_result.png)
-<br/>
-main2：
-<br/>
+## main2：
 ![image](https://github.com/kokoming/data-structure-HW/blob/master/%E8%B3%87%E7%B5%90HW3/main2_result.png)
